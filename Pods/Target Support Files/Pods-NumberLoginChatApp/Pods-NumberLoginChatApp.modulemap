@@ -1,0 +1,6 @@
+framework module Pods_NumberLoginChatApp {
+  umbrella header "Pods-NumberLoginChatApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
